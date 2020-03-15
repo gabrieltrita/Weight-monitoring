@@ -98,3 +98,4 @@ npm-debug.log
 *.tgz
 *.tar.gz
 *.log
+yarn.lock
