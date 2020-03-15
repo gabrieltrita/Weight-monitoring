@@ -83,7 +83,6 @@ test_*.html
 tmp
 tmp*.gem
 tmp.bpm
-tmp.spade
 tests/source
 node_modules
 node_modules/*
