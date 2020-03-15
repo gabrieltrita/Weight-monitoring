@@ -83,7 +83,6 @@ test_*.html
 tmp
 tmp*.gem
 tmp.bpm
-tmp.spade
 tests/source
 node_modules
 node_modules/*
@@ -98,3 +97,4 @@ npm-debug.log
 *.tgz
 *.tar.gz
 *.log
+yarn.lock
